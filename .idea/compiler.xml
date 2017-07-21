@@ -10,9 +10,8 @@
         <module name="DequesandRandomizedQueues" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DequesandRandomizedQueues" target="1.8" />
-      <module name="DequesAndRandomizedQueues" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="DequesAndRandomizedQueues" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
